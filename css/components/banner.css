@@ -1,0 +1,21 @@
+.banner {
+	background-image: linear-gradient(1deg, #030501 0%,#75a7d900 50%), url(../../images/tesla.webp) ;
+	color:white ;
+	padding: 50px 0px ;
+	background-size: cover;
+	background-position: center;
+	}
+
+
+.banner {
+	font-size: 25px;
+	}
+
+
+.banner {
+	ont-size: 30px;
+	font-size: lighter;
+	opacity: 0,8;
+	margin-bottom: 40px;
+
+}

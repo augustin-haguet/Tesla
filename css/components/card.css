@@ -1,0 +1,34 @@
+.card {
+	display: flex;
+	flex-wrap: wrap;
+
+}
+
+
+.card {
+    padding: 20px;
+    display: flex;
+    justify-content: flex-start;
+    box-shadow: 0px 10px 30px grey;
+    border-radius: 10рх;
+    margin: 5px 5px;
+    flex-basis: 250px;
+    flex-grow: 1;
+    align-content: center;
+    flex-wrap: wrap;
+    align-items: baseline;
+
+}
+
+
+
+.card img {
+  width: 150px;
+  border-radius: 6px;
+}
+.card h3 {
+  flex-grow: 1;
+  padding-left: 20px;
+  font-size: 18px;
+
+}
